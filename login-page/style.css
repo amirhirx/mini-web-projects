@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+*::selection{
+    color: #fff;
+    background: #000;
+}
+@font-face {
+    font-family: outfit;
+    src: url("../assets/fonts/Outfit-VariableFont_wght.ttf");
+}
+body{
+    width: 100%;
+    height: 100vh;
+    background: rgb(86, 65, 96);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: outfit;
+}
+h1{
+    font-size: 2.5rem;
+    color: #fff;
+}
+#login{
+    width: 20rem;
+    margin: 1rem 0;
+    padding: 1rem 1rem 2rem;
+    display: flex;
+    flex-direction: column;
+    background: #fff;
+    border-radius: 0.5rem;
+}
+#login label{
+    margin-top: 1rem;
+    font-size: 1.3rem;
+    font-weight: 600;
+}
+#login label i{
+    font-size: 1.2rem;
+    margin: 0.5rem;
+}
+#login input{
+    padding: 0.5rem 1rem;
+    outline: none;
+    border: 2px solid rgb(86, 65, 96);
+    border-radius: 0.5rem;
+    font-size: 1.2rem;
+    color: #000;
+}
