@@ -1,4 +1,4 @@
-![[thumb-transparent.png]]
+![Thumbnail](assets/thumbnail.png)
 In this repository there is many mini web projects, built with HTML, CSS and JavaScript
 ## List of projects
 
