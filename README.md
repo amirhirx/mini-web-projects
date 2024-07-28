@@ -6,4 +6,4 @@ In this repository there is many mini web projects, built with HTML, CSS and Jav
 | ---------------------- | ------------------------------- | --------------------------------------------------------------------------------- |
 | Random Color Generator | ![Random color generator](assets/screenshots/random-color-generator.png) | [Click here](https://amirhirx.github.io/mini-web-projects/random-color-generator) |
 | Login Page             | ![Login page](assets/screenshots/login-page.png) | [Click here](https://amirhirx.github.io/mini-web-projects/login-page)             |
-
+| Password Show Hide | ![Password show hide](assets/screenshots/password-show-hide.png) | [Click here](https://amirhirx.github.io/mini-web-projects/password-show-hide)
