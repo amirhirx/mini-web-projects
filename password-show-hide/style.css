@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100%;
+    min-height: 100vh;
+    font-family: inter;
+    background: #ddd;
+}
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.passwordInput{
+    margin: 1rem;
+    display: flex;
+    transition: all 0.3s ease-in-out;
+    border-radius: 0.5rem;
+    overflow: hidden;
+}
+#password{
+    padding: 0 0.5rem;
+    font-size: 1.2rem;
+    border: none;
+}
+#password:focus{
+    outline: none;
+}
+.passwordInput .fa-lock{
+    padding: 1rem;
+    color: #fff;
+    background: #7b7194;
+    font-size: 1.2rem;
+}
+#showOrHide{
+    padding: 1rem;
+    background: #fff;
+    color: rgb(146, 138, 138);
+    font-size: 1rem;
+}
