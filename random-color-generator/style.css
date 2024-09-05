@@ -17,7 +17,7 @@ body{
     align-items: center;
 }
 @font-face {
-    font-family: inter;
+    font-family: outfit;
     src: url("../assets/fonts/Outfit-VariableFont_wght.ttf");
 }
 #colorRgbCode{
